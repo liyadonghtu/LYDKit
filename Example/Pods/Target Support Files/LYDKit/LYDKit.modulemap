@@ -1,0 +1,6 @@
+framework module LYDKit {
+  umbrella header "LYDKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LYDKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYDKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liyadonghtu/LYDKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyadonghtu": "799715787@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liyadonghtu/LYDKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYDKit/Classes/**/*"
+}
