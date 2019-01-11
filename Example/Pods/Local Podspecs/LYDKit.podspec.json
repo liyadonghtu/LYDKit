@@ -1,9 +1,9 @@
 {
   "name": "LYDKit",
   "version": "0.1.0",
-  "summary": "A short description of LYDKit.",
+  "summary": "iOS开发常用基础组件",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/liyadonghtu/LYDKit",
+  "homepage": "https://github.com/liyadonghtu",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
