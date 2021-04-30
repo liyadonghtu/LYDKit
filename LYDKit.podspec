@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LYDKit'
-  s.version          = '0.2.0'
-  s.summary          = 'iOS开发常用基础组件'
+  s.version          = '0.2.1'
+  s.summary          = 'iOS开发常用基础工具组件'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
