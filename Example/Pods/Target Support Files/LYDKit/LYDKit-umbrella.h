@@ -54,7 +54,6 @@
 #import "UIImage+Size.h"
 #import "UIKit+LYDCategories.h"
 #import "UINavigationBar+Extensions.h"
-#import "UINavigationBar+iOS11Fixed.h"
 #import "UINavigationController+Extensions.h"
 #import "UINavigationItem+Fixed.h"
 #import "UIScrollView+Extensions.h"
